@@ -1,0 +1,13 @@
+.year-label{
+    position: relative;
+    margin-left: 40%;
+}
+
+@media only screen and (max-width: 400px) {
+   
+    .year-label{
+        position: relative;
+        margin-left: 3%;
+    }
+    
+  }

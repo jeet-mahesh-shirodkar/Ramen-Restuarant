@@ -1,0 +1,14 @@
+.country-label{
+    position: relative;
+    margin-left: 40%;
+}
+
+@media only screen and (max-width: 400px) {
+    body {
+      background-color: lightblue;
+    }
+    .country-label{
+        position: relative;
+        margin-left: 3%;
+    }
+  }
